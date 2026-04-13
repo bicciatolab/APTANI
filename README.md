@@ -33,7 +33,7 @@ silvio.bicciato@unimore.it; mattia.forcato@unimore.it
 #### Input parameters
 The complete list and discussion of the available parameters of APTANI can be found here:
 
-* [APTANI_v1 help](https://github.com/bicciatolab/APTANImain/APTANI_v1_help.pdf) file
+* [APTANI_v1 help](https://github.com/bicciatolab/APTANI/blob/main/APTANI_v1_help.pdf) file
 * Supplementary Information material of Caroli J, Taccioli C, De La Fuente A, Serafini P, Bicciato S. APTANI: a computational tool to select aptamers through sequence-structure motif analysis of HT-SELEX data. _Bioinformatics_. 2016 Jan 15;32(2):161-4  doi: [10.1093/bioinformatics/btv545](https://doi.org/10.1093/bioinformatics/btv545)
 
 #### Output
@@ -78,7 +78,7 @@ APTANI<sup>2</sup> comprises three additional post-analysis modules to inspect t
 #### Input parameters
 The complete list and discussion of the available parameters of APTANI<sup>2</sup> can be found here:
 
-* [APTANI2_v1 help](https://github.com/bicciatolab/APTANI#APTANI2_v1_help.pdf) file
+* [APTANI2_v1 help](https://github.com/bicciatolab/APTANI/blob/main/APTANI2_v1_help.pdf) file
 
 #### Output
 Results are summarized in several tables saved as tab delimited files. In particular, **APTANI<sup>2</sup>** returns:
