@@ -1,0 +1,36 @@
+# Instructions for building APTANI2 and its GUI
+# 
+# ##################################################
+# #                                                #
+# #     APTANI2 requires at least Python 3.4 	   #
+# #    both for the main script and for the GUI    #
+# #    for a correct run of all it dependancies.   #
+# #  Please be aware that your environment has it  #
+# #   correctly installed in order to run APTANI   #
+# #                                                #
+# ##################################################
+#
+# Install dependencies for the Graphic User Interface (GUI)
+# please pay attention to your 'pip' version. Required is pip3 for python3.x versions
+
+sudo apt-get install curl python-pip python-numpy python-pandas python-matplotlib python-setuptools
+sudo apt-get install python-qt4 libmysqlclient-dev
+sudo apt-get install git
+sudo pip install git+https://github.com/UmSenhorQualquer/pysettings.git
+sudo apt-get install python-opengl python-opencv
+sudo apt-get install pyqt4-dev-tools python-qt4 python-qt4-gl
+sudo pip install pyforms
+sudo pip install matplotlib
+sudo pip install cutadapt
+sudo pip install Qscintilla
+
+# Set up PyForms
+# The newer versions of PyForms renamed a large number of functions, which
+# broke compatibility with older programs.
+
+wget https://github.com/UmSenhorQualquer/pyforms/archive/v.0.1.3.tar.gz
+tar xzvf v.0.1.3.tar.gz
+cd pyforms-v.0.1.3
+sudo python setup.py install (python3.4 or higher)
+
+################################################################################
