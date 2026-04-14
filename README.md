@@ -15,7 +15,7 @@ silvio.bicciato@unimore.it; mattia.forcato@unimore.it
 
 - [APTANI](https://github.com/bicciatolab/APTANI#APTANI)
 - [APTANI<sup>2</sup>](https://github.com/bicciatolab/APTANI#APTANI2)
-- [APTANI and APTANI<sup>2</sup> sample data, script and output]((https://github.com/bicciatolab/APTANI#Example))
+- [APTANI and APTANI<sup>2</sup> sample data, script and output](https://github.com/bicciatolab/APTANI#Example)
 
 ## APTANI
 
