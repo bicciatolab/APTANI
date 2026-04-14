@@ -79,6 +79,7 @@ APTANI<sup>2</sup> comprises three additional post-analysis modules to inspect t
 The complete list and discussion of the available parameters of APTANI<sup>2</sup> can be found here:
 
 * [APTANI2_v1 help](https://github.com/bicciatolab/APTANI/blob/main/APTANI2_v1_help.pdf) file
+* Supplementary Information material of Caroli J, Forcato M, Bicciato S. APTANI2: update of aptamer selection through sequence-structure analysis. _Bioinformatics_ 2020 Apr 1;36(7):2266-2268.  doi: [10.1093/bioinformatics/btz897](https://doi.org/10.1093/bioinformatics/btz897)
 
 #### Output
 Results are summarized in several tables saved as tab delimited files. In particular, **APTANI<sup>2</sup>** returns:
