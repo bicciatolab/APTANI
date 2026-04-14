@@ -15,6 +15,7 @@ silvio.bicciato@unimore.it; mattia.forcato@unimore.it
 
 - [APTANI](https://github.com/bicciatolab/APTANI#APTANI)
 - [APTANI<sup>2</sup>](https://github.com/bicciatolab/APTANI#APTANI2)
+- [APTANI and APTANI<sup>2</sup> sample data, script and output]((https://github.com/bicciatolab/APTANI#Example))
 
 ## APTANI
 
@@ -89,3 +90,6 @@ Results are summarized in several tables saved as tab delimited files. In partic
 3. the _counts.txt_ file, which contains the aptamer frequencies
 4. the _Motifs.txt_ file listing the motifs, and their related scores, retrieved in each aptamer
 5. the _Structures_Scores.txt_, which contains all the input information needed for the visualization of the secondary structure in the _grAPhTANI module_ (i.e., the aptamer sequence, the secondary structure in dots and brackets notation, and the sequence position in base pairs of each motif identified in any predicted secondary structure)
+
+## Example
+An example data set, with scripts and output files for both **APTANI**  and **APTANI<sup>2</sup>** is available at [bicciatolab_data](https://github.com/bicciatolab/bicciatolab_data/tree/main/APTANI_data_and_scripts) 
